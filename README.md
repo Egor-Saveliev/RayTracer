@@ -18,5 +18,5 @@ Development goals:
 Potential development goals:
 1. Implementing ray tracer with OpenGL
 
-## Diffusion Material Render
+## Diffusion Render
 ![diffusion_material](https://user-images.githubusercontent.com/88453288/162637288-e28af47f-56cd-4e17-ab7b-81f1743c091e.png)
